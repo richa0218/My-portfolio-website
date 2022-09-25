@@ -263,7 +263,7 @@ section .title::after{
     background: #111;
 }
 .experiences .title::after{
-    content: "my work-experiences";
+    content: "my exposures";
 }
 .experiences .title::before,
 .projects .title::before{
@@ -384,7 +384,7 @@ section .title::after{
 
 /* projects section styling */
 .projects .title::after{
-    content: "projects I have worked on";
+    content: "my works";
 }
 .projects .carousel .card{
     background: #222;
